@@ -35,7 +35,7 @@ $ npm test
 ```
 
 ### Contributors
-- [Chyld Medford](https://github.com/chyld)
+- [Matt Keef](https://github.com/mkeef1)
 
 ### License
 [MIT](LICENSE)
